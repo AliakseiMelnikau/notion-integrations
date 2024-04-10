@@ -1,0 +1,19 @@
+{
+  "name": "notion-integrations",
+  "version": "1.0.0",
+  "description": "Testing Notion Integrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliakseiMelnikau/notion-integrations.git"
+  },
+  "author": "Aliaksei Melnikau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliakseiMelnikau/notion-integrations/issues"
+  },
+  "homepage": "https://github.com/AliakseiMelnikau/notion-integrations#readme"
+}
